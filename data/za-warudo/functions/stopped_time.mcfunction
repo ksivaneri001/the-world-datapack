@@ -17,3 +17,4 @@ effect give @a[scores={warudo-freeze=2}] minecraft:blindness 2 0 true
 effect give @a[scores={warudo-freeze=2}] minecraft:jump_boost 2 150 true
 effect give @a[scores={warudo-freeze=2}] minecraft:slowness 2 255 true
 effect give @a[scores={warudo-freeze=2}] minecraft:levitation 2 255 true
+execute as @a[scores={warudo-freeze=2}] at @s run tp @s @e[type=minecraft:armor_stand,name="tipped_arrow_water",limit=1,sort=nearest]
