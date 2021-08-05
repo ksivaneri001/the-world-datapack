@@ -1,6 +1,6 @@
 tellraw @s ""
 tellraw @s {"text":"Data Pack Information","bold":"true"}
-tellraw @s {"text":"■ [THE WORLD] can be obtained in vanilla survival either by finding it in a desert pyramid or by crafting it (Recipe in crafting book)","color":"gray"}
+tellraw @s {"text":"■ ⌈ THE WORLD ⌋ can be obtained in vanilla survival either by finding it in a desert pyramid or by crafting it (Recipe in crafting book)","color":"gray"}
 tellraw @s [{"text":"■ It can also be obtained with cheats by using the command ","color":"gray"},{"text":"/give @s bat_spawn_egg","color":"white"}]
 tellraw @s [{"text":"■ The duration of the time stop effect (in ticks) can be set with the command ","color":"gray"},{"text":"/scoreboard players set @s warudo-timeLimit [Any integer above 39]","color":"white"}]
 tellraw @s [{"text":"■ The cooldown time between uses (in ticks) can be set with the command ","color":"gray"},{"text":"/scoreboard players set @s warudo-coolTime [Any integer above 39]","color":"white"}]

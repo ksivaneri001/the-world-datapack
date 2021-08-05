@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " C ",
+        "CSC",
+        " C "
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:clock"
+        },
+        "S": {
+            "item": "minecraft:armor_stand"
+        }
+    },
+    "result": {
+        "item": "minecraft:bat_spawn_egg",
+        "count": 1
+    }
+}
